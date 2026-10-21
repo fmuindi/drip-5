@@ -1,15 +1,34 @@
-# Drip 5 of 7: One Small Improvement. Real Results.
+# Drip 5 of 7: 05 — Small improvements, measurable returns
 
-DFW Lean Leader Regional Accelerator (Dallas Fort Worth). HTML email.
+Lean365 | Dallas ENGAGE follow-up campaign, **Draft 3.0**. Theme: *Develop Your Leaders. Multiply Your Problem Solvers. Start 2027 Strong.*
 
-- **Subject line:** One small improvement. Real results.
-- **Preview text:** A real Kaizen Helper success story: $200 saved in the first week.
+- **Subject line:** Approximately $200 in the first week
+- **Preview text:** Small improvements add up. Here's a quick exercise to estimate what waste costs you.
 - **File:** `index.html` (paste into your email platform's custom HTML editor)
-- **Images:** `images/` (referenced from `raw.githubusercontent.com`; consider re-uploading them to your email platform's image library before the final send)
+- **Sign-off:** The Lean365 Leadership Team
 
-## Placeholder links to replace
+## CTA links
 
-| CTA | Current placeholder |
+| Button | Destination |
 | --- | --- |
-| Find My First Small Improvement (CTA) | `https://example.com/dfw-accelerator/virtual-analysis` |
+| Enroll — Virtual Cohort | `https://example.com/lean365/enroll-virtual-cohort` |
+| Enroll — Dallas Accelerator | `https://example.com/lean365/enroll-dallas-accelerator` |
+| Join a Lean365 Introduction Call | `https://calendly.com/evans-kariuki-circleksolutions/lean365-introduction-call` |
 
+`example.com` links are placeholders for destinations still pending.
+
+## Placeholder assets to replace
+
+| File | What goes here |
+| --- | --- |
+| — | None in this email |
+
+**Case study check:** confirm Kiki's case details and permission before publishing. Kiki's own Kaizen Helper post describes limiting access to the coater; Draft 3.0 says "batter". This email uses "coater" to match the source.
+
+## Before sending (Draft 3.0 production notes)
+
+- Keep the 35-seat limit, enrollment pricing, the Dallas event details and Forrest's participation marked for internal approval before public distribution.
+- Use the "selected" invitation language only for recipients whose eligibility has been confirmed.
+- Forrest's scripts are proposed language, not verified quotations. Confirm with Forrest before recording.
+- Replace every `example.com` link and every placeholder image before the final send.
+- Dallas Accelerator timing: these emails say **January 2027** (Draft 3.0), but the live registration page at `engage.cfalean365.com/dfw/` says **late November–early December 2026** ($4,000, LeanKit included). Reconcile before linking the Dallas enroll button to it.
